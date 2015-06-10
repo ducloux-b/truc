@@ -2,7 +2,7 @@ A simple Java EE 7 Sample
 =========================
 Changement dans la branche hotfix.
 
-2ème changement
+Je suis un changement de la branche develop
 
 This is a trivial Java EE 7 sample.
 
