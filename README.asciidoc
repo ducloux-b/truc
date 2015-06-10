@@ -4,6 +4,8 @@ Je suis un changement de la branche develop
 
 2ème changement
 
+3ème
+
 This is a trivial Java EE 7 sample.
 
 . Download WildFly 8.2 from
