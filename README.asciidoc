@@ -1,11 +1,6 @@
 A simple Java EE 7 Sample
 =========================
-
-
-A
-A
-A
-A
+Je suis un changement de la branche develop
 
 This is a trivial Java EE 7 sample.
 
