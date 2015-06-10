@@ -6,6 +6,7 @@ Je suis un changement de la branche develop
 
 Je suis un changement dans spring.
 
+
 This is a trivial Java EE 7 sample.
 
 . Download WildFly 8.2 from
