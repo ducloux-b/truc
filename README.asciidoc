@@ -1,6 +1,6 @@
 A simple Java EE 7 Sample
 =========================
-
+Changement dans la branche hotfix.
 
 This is a trivial Java EE 7 sample.
 
